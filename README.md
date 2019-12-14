@@ -1,4 +1,4 @@
-#nrf24 Library
+**#nrf24 Library**
 
 **Customizing an nrf24 library for implementing the wireless communication between a small car and the control joystick**
 
